@@ -1,0 +1,22 @@
+#home-container{
+    display:flex;
+    left: 100px;
+    #feed-posts{
+        width: 100%;
+        padding: 10px;
+    }
+    #user-friends{
+    width: 30%;
+    padding: 10px;
+    border: 1px solid lightgrey;
+    height: 100%;
+    }
+    #new-post-form{
+        left:30%;
+        border: 10px solid darkblue;
+    }
+    #posts-list-container{
+        text-align: center;
+        background-color: black;
+    }
+}
